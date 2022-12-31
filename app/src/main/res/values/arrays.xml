@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_codes">
+        <item>+91 (India)</item>
+        <item>+1 (United States)</item>
+        <item>+44 (United Kingdom)</item>
+        <item>+61 (Australia)</item>
+        <item>+93 (Afghanistan)</item>
+        <item>+355 (Albania)</item>
+        <item>+213 (Algeria)</item>
+        <item>+1 (American Samoa)</item>
+        <item>+376 (Andorra)</item>
+        <item>+244 (Angola)</item>
+        <item>+1 (Anguilla)</item>
+        <item>+1 (Antigua and Barbuda)</item>
+        <item>+54 (Argentina)</item>
+        <item>+374 (Armenia)</item>
+        <item>+297 (Aruba)</item>
+        <item>+61 (Australia)</item>
+        <item>+43 (Austria)</item>
+        <item>+994 (Azerbaijan)</item>
+        <item>+1 (Bahamas)</item>
+        <item>+973 (Bahrain)</item>
+        <item>+880 (Bangladesh)</item>
+        <item>+1 (Barbados)</item>
+        <item>+375 (Belarus)</item>
+        <item>+32 (Belgium)</item>
+        <item>+501 (Belize)</item>
+        <item>+229 (Benin)</item>
+        <!-- Add more country codes here -->
+    </string-array>
+</resources>
